@@ -1,4 +1,8 @@
-### Hi there 👋
+
+## A very passionate Data Analyst :bar_chart::chart_with_upwards_trend:
+I analyse data to discover hidden insight that will assist decision makers,
+I use **spreadsheet, Power BI, power query** to clean, manipulate and visualize data, 
+**SQL** to query data from databases and also have the knowledge of **statistics**
 
 <!--
 **FreshDAnalyst/FreshDAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
